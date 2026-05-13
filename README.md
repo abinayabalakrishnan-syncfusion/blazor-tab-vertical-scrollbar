@@ -1,6 +1,5 @@
 # Syncfusion Tabs in Blazor
 
-**Repository Description**  
 This repository contains a quick‑start Blazor sample that demonstrates how to enable a vertical scrollbar in the Syncfusion Blazor Tabs component when the tab content exceeds the available view height.
 
 This sample focuses on managing overflow content within tab panels to ensure a smooth and usable scrolling experience in Blazor applications.
